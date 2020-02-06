@@ -18,9 +18,9 @@
  c) open_file()
 5. В каком из вариантов присутствует ошибка?
  a) a=5
- 	print ('a')
- b) while True
- 	print(a)
+ 	  print ('a')
+ b) while True:
+ 	      print(a)
  c) a=open("file.txt")
 6. Что делает команда import
  a) импортирует файл модуля
